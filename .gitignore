@@ -1,0 +1,20 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Data files (if large or confidential)
+data/
+
+# Environment files
+.env
+venv/
+ENV/
+
+# Ignore virtual environment directories
+.virtual_documents/
+anaconda_projects/
+
+models/
