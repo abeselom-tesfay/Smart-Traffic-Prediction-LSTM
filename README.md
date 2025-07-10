@@ -8,8 +8,8 @@ Traffic congestion causes delays, pollution, and economic loss. While traditiona
 
 ## 📊 What the Model Does
 
-- Uses historical traffic data like vehicle count, speed, time, and weather
-- Learns traffic patterns over time
+- Uses historical traffic data like vehicle count, speed, time, and weather  
+- Learns traffic patterns over time  
 - Predicts traffic volume 2 hours into the future
 
 ## 🧠 Why LSTM?
@@ -20,7 +20,8 @@ LSTM networks are ideal for time-based data. They remember long-term trends and 
 
 - Cleaned traffic volume dataset  
 - Time-based features: hour, day of the week, holidays  
-- Weather data: rainfall, temperature, etc.
+- Weather data: rainfall, temperature, etc.  
+- 📥 **Download the dataset here**: [Metro Interstate Traffic Volume – UCI Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/00492/Metro_Interstate_Traffic_Volume.csv.gz)
 
 ## 📷 Project Overview
 
