@@ -35,4 +35,5 @@ LSTM networks are ideal for time-based data. They remember long-term trends and 
 ### Questions, Feedback, or Collaboration?
 
 If you have any questions, feedback, or would like to collaborate on improving this project, feel free to reach out or open an issue.  
-Your thoughts are always welcome and appreciated!
+Your thoughts are always welcome and appreciated![abeselomtesfay@gmail.com](mailto:abeselomtesfay@gmail.com)
+
